@@ -46,6 +46,10 @@ I want to continue gaining more practical experience and deeper knowledge in thi
 
 I am currently doing my **Praktikum at NADOOIT**, where I am gaining hands-on experience in IT solutions, data-related tasks, and digital business processes.
 
+## 🌍 Open Source Contributions
+
+- Contributed a documentation improvement to [`skrub`](https://github.com/skrub-data/skrub), a Python library for machine learning with dataframes.
+
 ## 🤝 Looking to Collaborate On
 
 I am interested in collaborating on:
