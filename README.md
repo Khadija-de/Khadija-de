@@ -73,4 +73,4 @@ I am open to learning opportunities, internships, project collaboration, and pro
 
 ## 😄 About Me
 
-I enjoy dancing and Pilates, and I like learning through practical experience.
+I enjoy dancing and stay fit, and I like learning through practical experience.
