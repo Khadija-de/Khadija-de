@@ -37,7 +37,7 @@ I am transitioning from **operations management into data and process analytics*
 
 ## 🚀 Featured Analytics Work
 
-### 🛒 [E-commerce Sales Analysis with Python](https://github.com/Khadija-de/ecommerce-sales-analysis-python.)
+### 🛒 [E-commerce Sales Analysis with Python](https://github.com/Khadija-de/ecommerce-sales-analysis-python)
 
 An end-to-end analysis of UK retail transactions that turns raw sales data into insights for planning, customer retention, and decision-making.
 
@@ -50,7 +50,7 @@ An end-to-end analysis of UK retail transactions that turns raw sales data into 
 
 **What the project demonstrates:** data cleaning, quality checks, exploratory analysis, seasonality, customer retention, business recommendations, reusable Python code, and an equivalent SQL analysis.
 
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Khadija-de/ecommerce-sales-analysis-python.)
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Khadija-de/ecommerce-sales-analysis-python)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-0F766E?style=flat-square)
